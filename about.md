@@ -8,7 +8,7 @@ Hello! I'm Andrew Zaw, a Software Developer with a focus on front-end. I hail fr
 
 ### Personal
 
-My hobbies include online games (primarily League of Legends), board games and bouldering. 
+My hobbies include online games (primarily League of Legends), traveling and bouldering. 
 
 I also love to cook, so feel free to follow [my cooking Instagram!](https://www.instagram.com/chef_zaw/) ![logo]
 
