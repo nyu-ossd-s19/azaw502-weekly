@@ -20,11 +20,11 @@ I also love to cook, so feel free to follow [my cooking Instagram!](https://www.
 
 Here are some of the projects I have worked on in the past:
 
-[Papiers-Mâchés](http://interactivefrench.hosting.nyu.edu/)
+####[Papiers-Mâchés](http://interactivefrench.hosting.nyu.edu/)
 
 Developed on WordPress, Papiers-Mâchés is a French Literature site developed for NYU, featuring many interactive activities and modules.
 
-[CryptoWatch](https://github.com/azaw502/cryptowatch)
+####[CryptoWatch](https://github.com/azaw502/cryptowatch)
 
 Developed utilizing HTML/CSS and JavaScript, CryptoWatch is a personal project of mine. It tracks the prices and trends of various cryptocurrencies in a compact Google Chrome extension. 
 
