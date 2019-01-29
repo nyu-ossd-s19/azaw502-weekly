@@ -23,12 +23,12 @@ avatar: https://avatars3.githubusercontent.com/u/44329973?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: azaw502@gmail.com
   facebook:
   flickr:
-  github: nyu-ossd-s19
+  github: azaw502
   instagram:
-  linkedin:
+  linkedin: andrew-zaw-502
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -41,14 +41,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s18.github.io/weekly"
+url: "https://nyu-ossd-s19.github.io/azaw502-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/azaw502-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
