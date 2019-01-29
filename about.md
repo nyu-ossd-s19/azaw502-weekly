@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Andrew Zaw, a Software Developer from the NYC region with a focus on front-end. I hail from Miami, but I currently study Computer Science at New York University. I hope to continue working in the NYC region after I graduate.
+Hello! I'm Andrew Zaw, a Software Developer with a focus on front-end. I hail from Miami, but I currently study Computer Science at New York University. I currently work at NYU, developing the front-end for various courses, and I hope to continue working in the NYC region after I graduate.
 
-### More Information
+### Languages
 
-A place to include any other types of information that you'd like to include about yourself.
+I code primarily in Python 3, Java, HTML5/CSS3 and JavaScript.
 
