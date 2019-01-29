@@ -8,5 +8,5 @@ Hello! I'm Andrew Zaw, a Software Developer with a focus on front-end. I hail fr
 
 ### Languages
 
-I code primarily in Python 3, Java, HTML5/CSS3 and JavaScript.
+I code primarily in Python3, Java, HTML5/CSS3 and JavaScript.
 
