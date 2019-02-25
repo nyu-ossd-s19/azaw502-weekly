@@ -16,16 +16,23 @@ may be very hard to find. Do not _google_ for answers.
 
 __Project website:__
 
+https://sentry.io/welcome/
 
 __What is the purpose of the project:__
 
+Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. 
 
 __How easy was it to find information about contributing on the website?__
 
+It was fairly easy.
 
 __Contributing instructions:__
 
+https://docs.sentry.io/#contributing
+
 __URL for the code repository:__
+
+https://github.com/getsentry/sentry
 
 __Bug/Issue tracker link:__
 
@@ -35,6 +42,7 @@ __Chat channel:__
 
 __Other communication channels:__
 
+https://forum.sentry.io/
 
 ---
 
@@ -42,58 +50,91 @@ __Other communication channels:__
 
 __License:__
 
+https://github.com/getsentry/sentry/blob/master/LICENSE
+
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+
+Yes
 
 __Programming Language:__
 
+Python
+
 __URL for contributing instructions:__ 
+
+https://docs.sentry.io/development/contribute/contributing/
 
 __Are the contributing instructions clear?__ 
 
+Yes
 
 __URL for code of conduct / community norms / community guildelines:__
 
+https://docs.sentry.io/development/contribute/contributing/#commit-guidelines
+
 __URL for instructions for users to download and install the package:__
 
+https://docs.sentry.io/error-reporting/quickstart/?platform=javascript
 
 __Are these instructions clear? Do you think they would be easy to follow?__
 
+Yes
 
 __Number of contributors:__
 
+381
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+1.dcramer
+2.ckj
+3.mattrobenolt
 
 
 __Number of commits:__
+
+24,550
 
 __Latest commit__
 
 - __link to the commit:__
 
+https://github.com/getsentry/sentry/commit/b52e34ee4538e565963565cbffbd737d548bcc36
+
 - __who made that commit:__
+
+lynnagara 
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 
+Refactor a number of components
 
 __Issues__
 
 - __how many open issues are there:__
 
+689
+
     - __url for the last issue created:__
+    
+    https://github.com/getsentry/sentry/issues/12178
 
     - __how many users discuss the issue:__
     
+    0
+    
     - __when was the issue reported:__
     
+    3 days ago
 
 - __how many closed issues are there:__
+
+2715
+
     - __url for the last issue closed:__
+    
+    
     - __how many users discussed the issue:__
     - __when was the issue reported:__
     - __when was the issue closed:__
