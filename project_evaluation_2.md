@@ -4,7 +4,7 @@
 
 __Project Name:__
 
-Sentry
+FreeCodeCamp
 
 ---
 
@@ -16,23 +16,23 @@ may be very hard to find. Do not _google_ for answers.
 
 __Project website:__
 
-https://sentry.io/welcome/
+https://www.freecodecamp.org/
 
 __What is the purpose of the project:__
 
-Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. 
+FreeCodeCamp helps people learn different coding languages.
 
 __How easy was it to find information about contributing on the website?__
 
-It was fairly easy.
+As Joanna stated, there does not appear to be any information about contributing directly on the website anywhere.
 
 __Contributing instructions:__
 
-https://docs.sentry.io/#contributing
+https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md
 
 __URL for the code repository:__
 
-https://github.com/getsentry/sentry
+https://github.com/freeCodeCamp/freeCodeCamp
 
 __Bug/Issue tracker link:__
 
@@ -42,7 +42,7 @@ __Chat channel:__
 
 __Other communication channels:__
 
-https://forum.sentry.io/
+https://www.freecodecamp.org/forum/
 
 ---
 
