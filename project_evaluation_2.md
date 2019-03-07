@@ -48,9 +48,10 @@ https://www.freecodecamp.org/forum/
 
 ## Finding info at the project repository and bug/issue tracker.
 
+
 __License:__
 
-https://github.com/getsentry/sentry/blob/master/LICENSE
+BSD 3-Clause
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
 
@@ -58,11 +59,11 @@ Yes
 
 __Programming Language:__
 
-Python
+Node.js and React.js
 
 __URL for contributing instructions:__ 
 
-https://docs.sentry.io/development/contribute/contributing/
+https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md
 
 __Are the contributing instructions clear?__ 
 
@@ -70,11 +71,11 @@ Yes
 
 __URL for code of conduct / community norms / community guildelines:__
 
-https://docs.sentry.io/development/contribute/contributing/#commit-guidelines
+https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CODE_OF_CONDUCT.md
 
 __URL for instructions for users to download and install the package:__
 
-https://docs.sentry.io/error-reporting/quickstart/?platform=javascript
+https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md
 
 __Are these instructions clear? Do you think they would be easy to follow?__
 
@@ -82,21 +83,21 @@ Yes
 
 __Number of contributors:__
 
-381
+3288
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.dcramer
+1.QuincyLarson
 
-2.ckj
+2.sahat
 
-3.mattrobenolt
+3.Bouncey
 
 
 __Number of commits:__
 
-24,550
+21,879
 
 __Latest commit__
 
