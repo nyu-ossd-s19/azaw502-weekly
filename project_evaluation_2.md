@@ -103,59 +103,59 @@ __Latest commit__
 
 - __link to the commit:__
 
-https://github.com/getsentry/sentry/commit/b52e34ee4538e565963565cbffbd737d548bcc36
+https://github.com/freeCodeCamp/freeCodeCamp/commit/cf8a79c0af516255876cfe8272809c0891f37998
 
 - __who made that commit:__
 
-lynnagara 
+RandellDawson
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 
-Refactor a number of components
+Add new hints
 
 __Issues__
 
-- __how many open issues are there:__ 689
+- __how many open issues are there:__ 279
 
     - __url for the last issue created:__
     
-    https://github.com/getsentry/sentry/issues/12178
+    https://github.com/freeCodeCamp/freeCodeCamp/issues/35533
 
     - __how many users discuss the issue:__
     
-    1
+    3
     
     - __when was the issue reported:__
     
-    3 days ago
+    2 days ago
 
-- __how many closed issues are there:__ 2715
+- __how many closed issues are there:__ 13122
 
     - __url for the last issue closed:__
     
-    https://github.com/getsentry/sentry/issues/12047
+    https://github.com/freeCodeCamp/freeCodeCamp/issues/35533
     
     - __how many users discussed the issue:__
     
-    2
+    3
     
     - __when was the issue reported:__
     
-    12 days ago
+    2 days ago
     
     - __when was the issue closed:__
     
-    5 days ago
+    2 days ago
 
 - __how active is the discussion on the issues:__ 
 
     - __example of a lot of good discussion:__ 
     
-    https://github.com/getsentry/sentry/issues/11685
+    https://github.com/freeCodeCamp/freeCodeCamp/issues/35533
     
     - __example of an issue that does not have much discussion:__
     
-    https://github.com/getsentry/sentry/issues/12047
+    https://github.com/freeCodeCamp/freeCodeCamp/issues/35473
 
 
 
@@ -163,7 +163,7 @@ __Issues__
 
     - __how many of such issues are there?__
     
-    45
+    10
     
     - __look at a few of them, do they look beginner friendly?__ 
 
@@ -173,7 +173,7 @@ __Issues__
  
     - __how many of such issues are there?__
     
-    3
+    5
     
     - __look at a few of them, do you think you could submit a fix?__ 
 
@@ -181,25 +181,25 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 97
+- __how many open pull requests are there:__ 3550
 
-    - __url for the last pull request created:__ https://github.com/getsentry/sentry/pull/12184
+    - __url for the last pull request created:__ https://github.com/freeCodeCamp/freeCodeCamp/pull/35548
     
-    - __when was the last pull request made:__ 2 days ago
+    - __when was the last pull request made:__ 7 hours ago
 
-    - __url for the oldest pull request created:__ https://github.com/getsentry/sentry/pull/4039        
+    - __url for the oldest pull request created:__ https://github.com/freeCodeCamp/freeCodeCamp/pull/18059      
     
-    - __when was the oldest pull request made:__ Aug 30, 2016
+    - __when was the oldest pull request made:__ Aug 28, 2018
 
-- __how many closed pull requests are there:__ 8530
+- __how many closed pull requests are there:__ 18172
 
-    - __url for the last pull request closed:__  https://github.com/getsentry/sentry/pull/12181
+    - __url for the last pull request closed:__  https://github.com/freeCodeCamp/freeCodeCamp/pull/35538
     
     - __how many users discussed the pull request:__ 2
     
     - __when was the pull request made:__ 2 days ago
     
-    - __when was the pull request closed:__ 2 days ago
+    - __when was the pull request closed:__ 1 day ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__  yes
@@ -224,7 +224,7 @@ Yes, they do.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-They seem fine. 
+Yes, people are very friendly.
 
 
 __Do pull requests get reviewed?__
@@ -233,4 +233,4 @@ Yes.
 
 __Do maintainers thank people for their contributions?__
 
-No? Kind of?
+Yes, they do.
