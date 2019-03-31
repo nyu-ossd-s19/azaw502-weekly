@@ -20,3 +20,5 @@ Replace the first row with your contribution.
 | 2 | [link](https://github.com/nyu-ossd-s19/riotrah-weekly/issues/1) | blog repository | Reported issue regarding title and list |
 | 2 | [link](https://github.com/nyu-ossd-s19/ashley-weekly/issues/1) | blog repository | Reported issue regarding emojis |
 | 2 | [link](https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/1) | blog repository | Reported issue regarding title |
+| 3 | [link](https://github.com/nyu-ossd-s19/ToDoList-team13/commit/e7cedc66492faa1762a80b2af63307fef6b882e0) | browser repository | Updated buttons, header and general style |
+
