@@ -22,3 +22,5 @@ Replace the first row with your contribution.
 | 2 | [link](https://github.com/nyu-ossd-s19/rachelyhe-weekly/issues/1) | blog repository | Reported issue regarding title |
 | 3 | [link](https://github.com/nyu-ossd-s19/ToDoList-team13/commit/e7cedc66492faa1762a80b2af63307fef6b882e0) | browser repository | Updated buttons, header and general style |
 | 8 | [link](https://github.com/nyu-ossd-s19/anthonykyi-weekly/pull/4) | blog repository | Fixed links |
+| 10 | [link](https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/issues/3) | blog repository | Opened issue about hyperlinks |
+| 10 | [link](https://github.com/nyu-ossd-s19/StanimalTheMan-weekly/pull/4) | blog repository | Submitted pull request fixing hyperlinks |
