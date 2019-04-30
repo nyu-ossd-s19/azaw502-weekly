@@ -27,3 +27,4 @@ Replace the first row with your contribution.
 | 10 | [link](https://github.com/nyu-ossd-s19/anthonykyi-weekly/issues/8) | blog repository | Opened issue about hyperlinks |
 | 10 | [link](https://github.com/nyu-ossd-s19/anthonykyi-weekly/pull/9) | blog repository | Submitted pull request fixing hyperlinks |
 | 11 | [link](https://github.com/freeCodeCamp/freeCodeCamp/issues/35908) | FreeCodeCamp | Opened issue regarding miscoded instructions |
+| 11 | [link](https://github.com/freeCodeCamp/freeCodeCamp/pull/35912) | FreeCodeCamp | Submitted pull request regarding issue about miscoded instructions |
